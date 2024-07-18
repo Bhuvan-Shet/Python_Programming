@@ -39,10 +39,10 @@ Extract the file from zip folder and open the car file prediction file and place
 Code ( cd _file path)
 (Python app.py)
 
-!(https://github.com/user-attachments/assets/c441f406-97f0-40a3-ba0c-433a7bafa158)
-2(https://github.com/user-attachments/assets/086ca834-c060-489f-862f-18786611393f)
-3(https://github.com/user-attachments/assets/f0fe49cd-c0bd-48df-8707-8e52fc45071a)
-4(https://github.com/user-attachments/assets/1a341a2a-8d08-4058-bb5b-2d20554dc43d)
-5(https://github.com/user-attachments/assets/16b939bb-66fb-4beb-801a-517bdd4aacef)
-6(https://github.com/user-attachments/assets/0a132cae-8ae8-47f6-aafb-9dc4d6d3538b)
+![Slide26](https://github.com/user-attachments/assets/d847a98d-2283-4fc5-9147-3464ac231ecb)
+2[Slide27](https://github.com/user-attachments/assets/b6464281-8b5f-42db-8b9f-781742464a42)
+3[Slide28](https://github.com/user-attachments/assets/d8475001-c7c8-4d33-ad7a-85675897376e)
+4[Slide29](https://github.com/user-attachments/assets/470f579e-6029-496c-81d8-f496e8aca206)
+5[Slide30](https://github.com/user-attachments/assets/213d7ccf-bfc6-4958-92cb-9c40fcf67abf)
+6[Slide31](https://github.com/user-attachments/assets/78c65b0d-85b9-4047-94d4-23438d8065d1)
 
