@@ -23,7 +23,7 @@ pricing. Further, used cars have additional attributes that factor into the pric
 is the higher of the two prices and is what an individual should expect when buying a car at a 
 dealership.
 
-#Aim and Objectives
+# Aim and Objectives
 
 • The purpose of this thesis is to evaluate several different machine
 learning models for used car price prediction and draw conclusions about
@@ -33,7 +33,7 @@ applied to car valuations and other similar price prediction problems
 learning. Instead, they source data from local sales and average the prices
 of many similar cars.
 
-#How to Run
+# How to Run
 Extract the file from zip folder and open the car file prediction file and place it in a path , open the Anaconda navigator open the environment section and create a file and open terminal
 Code ( cd _file path)
 (Python app.py)
